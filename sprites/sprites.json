@@ -1,160 +1,274 @@
 {
-    "spr_portrait_caldarus_human_spring_embarrassed": {
-      "Location": "images/spring/embarrassed",
+  "spr_portrait_caldarus_human_spring_embarrassed": {
+    "Location": "images/spring/embarrassed",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_spring_happy": {
+    "Location": "images/spring/happy",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_spring_mad": {
+    "Location": "images/spring/mad",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_spring_neutral": {
+      "Location": "images/spring/neutral",
       "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_spring_happy": {
-      "Location": "images/spring/happy",
+  },
+  "spr_portrait_caldarus_human_spring_pained": {
+    "Location": "images/spring/pained",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_spring_sad": {
+    "Location": "images/spring/sad",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_spring_sigh": {
+    "Location": "images/spring/sigh",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_spring_smile": {
+      "Location": "images/spring/smile",
       "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_spring_mad": {
-      "Location": "images/spring/mad",
+  },
+  "spr_portrait_caldarus_human_spring_think": {
+    "Location": "images/spring/think",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_spring_ugh": {
+    "Location": "images/spring/ugh",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_spring_wink": {
+      "Location": "images/spring/wink",
       "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_spring_neutral": {
-        "Location": "images/spring/neutral",
-        "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_spring_pained": {
-      "Location": "images/spring/pained",
+  },
+  "spr_portrait_caldarus_human_spring_avoidant_special": {
+    "Location": "images/spring/special/avoidant",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_spring_caring_special": {
+    "Location": "images/spring/special/caring",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_spring_laugh_special": {
+      "Location": "images/spring/special/laugh",
       "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_spring_sad": {
-      "Location": "images/spring/sad",
-      "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_spring_sigh": {
-      "Location": "images/spring/sigh",
-      "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_spring_smile": {
-        "Location": "images/spring/smile",
-        "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_spring_think": {
-      "Location": "images/spring/think",
-      "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_spring_ugh": {
-      "Location": "images/spring/ugh",
-      "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_spring_wink": {
-        "Location": "images/spring/wink",
-        "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_spring_avoidant_special": {
-      "Location": "images/spring/special/avoidant",
-      "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_spring_caring_special": {
-      "Location": "images/spring/special/caring",
-      "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_spring_laugh_special": {
-        "Location": "images/spring/special/laugh",
-        "IsAnimated": true
-    },
+  },
 
-    "spr_portrait_caldarus_human_beach_embarrassed": {
-      "Location": "images/beach/embarrassed",
+  "spr_portrait_caldarus_human_beach_embarrassed": {
+    "Location": "images/beach/embarrassed",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_beach_happy": {
+    "Location": "images/beach/happy",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_beach_mad": {
+    "Location": "images/beach/mad",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_beach_neutral": {
+      "Location": "images/beach/neutral",
       "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_beach_happy": {
-      "Location": "images/beach/happy",
+  },
+  "spr_portrait_caldarus_human_beach_pained": {
+    "Location": "images/beach/pained",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_beach_sad": {
+    "Location": "images/beach/sad",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_beach_sigh": {
+    "Location": "images/beach/sigh",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_beach_smile": {
+      "Location": "images/beach/smile",
       "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_beach_mad": {
-      "Location": "images/beach/mad",
+  },
+  "spr_portrait_caldarus_human_beach_think": {
+    "Location": "images/beach/think",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_beach_ugh": {
+    "Location": "images/beach/ugh",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_beach_wink": {
+      "Location": "images/beach/wink",
       "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_beach_neutral": {
-        "Location": "images/beach/neutral",
-        "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_beach_pained": {
-      "Location": "images/beach/pained",
-      "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_beach_sad": {
-      "Location": "images/beach/sad",
-      "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_beach_sigh": {
-      "Location": "images/beach/sigh",
-      "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_beach_smile": {
-        "Location": "images/beach/smile",
-        "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_beach_think": {
-      "Location": "images/beach/think",
-      "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_beach_ugh": {
-      "Location": "images/beach/ugh",
-      "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_beach_wink": {
-        "Location": "images/beach/wink",
-        "IsAnimated": true
-    },
+  },
 
-    "spr_portrait_caldarus_human_summer_embarrassed": {
-      "Location": "images/summer/embarrassed",
+  "spr_portrait_caldarus_human_summer_embarrassed": {
+    "Location": "images/summer/embarrassed",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_summer_happy": {
+    "Location": "images/summer/happy",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_summer_mad": {
+    "Location": "images/summer/mad",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_summer_neutral": {
+      "Location": "images/summer/neutral",
       "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_summer_happy": {
-      "Location": "images/summer/happy",
+  },
+  "spr_portrait_caldarus_human_summer_pained": {
+    "Location": "images/summer/pained",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_summer_sad": {
+    "Location": "images/summer/sad",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_summer_sigh": {
+    "Location": "images/summer/sigh",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_summer_smile": {
+      "Location": "images/summer/smile",
       "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_summer_mad": {
-      "Location": "images/summer/mad",
+  },
+  "spr_portrait_caldarus_human_summer_think": {
+    "Location": "images/summer/think",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_summer_ugh": {
+    "Location": "images/summer/ugh",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_summer_wink": {
+      "Location": "images/summer/wink",
       "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_summer_neutral": {
-        "Location": "images/summer/neutral",
-        "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_summer_pained": {
-      "Location": "images/summer/pained",
+  },
+  "spr_portrait_caldarus_human_summer_avoidant_special": {
+    "Location": "images/summer/special/avoidant",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_summer_caring_special": {
+    "Location": "images/summer/special/caring",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_summer_laugh_special": {
+      "Location": "images/summer/special/laugh",
       "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_summer_sad": {
-      "Location": "images/summer/sad",
+  },
+
+  "spr_portrait_caldarus_human_autumn_embarrassed": {
+    "Location": "images/autumn/embarrassed",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_autumn_happy": {
+    "Location": "images/autumn/happy",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_autumn_mad": {
+    "Location": "images/autumn/mad",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_autumn_neutral": {
+      "Location": "images/autumn/neutral",
       "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_summer_sigh": {
-      "Location": "images/summer/sigh",
+  },
+  "spr_portrait_caldarus_human_autumn_pained": {
+    "Location": "images/autumn/pained",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_autumn_sad": {
+    "Location": "images/autumn/sad",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_autumn_sigh": {
+    "Location": "images/autumn/sigh",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_autumn_smile": {
+      "Location": "images/autumn/smile",
       "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_summer_smile": {
-        "Location": "images/summer/smile",
-        "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_summer_think": {
-      "Location": "images/summer/think",
+  },
+  "spr_portrait_caldarus_human_autumn_think": {
+    "Location": "images/autumn/think",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_autumn_ugh": {
+    "Location": "images/autumn/ugh",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_autumn_wink": {
+      "Location": "images/autumn/wink",
       "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_summer_ugh": {
-      "Location": "images/summer/ugh",
+  },
+  "spr_portrait_caldarus_human_autumn_avoidant_special": {
+    "Location": "images/autumn/special/avoidant",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_autumn_caring_special": {
+    "Location": "images/autumn/special/caring",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_autumn_laugh_special": {
+      "Location": "images/autumn/special/laugh",
       "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_summer_wink": {
-        "Location": "images/summer/wink",
-        "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_summer_avoidant_special": {
-      "Location": "images/summer/special/avoidant",
+  },
+
+  "spr_portrait_caldarus_human_winter_embarrassed": {
+    "Location": "images/winter/embarrassed",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_winter_happy": {
+    "Location": "images/winter/happy",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_winter_mad": {
+    "Location": "images/winter/mad",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_winter_neutral": {
+      "Location": "images/winter/neutral",
       "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_summer_caring_special": {
-      "Location": "images/summer/special/caring",
+  },
+  "spr_portrait_caldarus_human_winter_pained": {
+    "Location": "images/winter/pained",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_winter_sad": {
+    "Location": "images/winter/sad",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_winter_sigh": {
+    "Location": "images/winter/sigh",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_winter_smile": {
+      "Location": "images/winter/smile",
       "IsAnimated": true
-    },
-    "spr_portrait_caldarus_human_summer_laugh_special": {
-        "Location": "images/summer/special/laugh",
-        "IsAnimated": true
-    }
+  },
+  "spr_portrait_caldarus_human_winter_think": {
+    "Location": "images/winter/think",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_winter_ugh": {
+    "Location": "images/winter/ugh",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_winter_wink": {
+      "Location": "images/winter/wink",
+      "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_winter_avoidant_special": {
+    "Location": "images/winter/special/avoidant",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_winter_caring_special": {
+    "Location": "images/winter/special/caring",
+    "IsAnimated": true
+  },
+  "spr_portrait_caldarus_human_winter_laugh_special": {
+      "Location": "images/winter/special/laugh",
+      "IsAnimated": true
+  }
 }
